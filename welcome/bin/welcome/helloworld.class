@@ -1,4 +1,4 @@
-kÊþº¾   4 ?  welcome/helloworld  java/lang/Object <init> ()V Code
+Êþº¾   4 ?  welcome/helloworld  java/lang/Object <init> ()V Code
   	   LineNumberTable LocalVariableTable this Lwelcome/helloworld; main ([Ljava/lang/String;)V 
 Exceptions  java/io/IOException  java/util/Scanner   C:\Users\RIZERO\Desktop\text.txt  java/lang/String
     java/nio/file/Paths   get ;(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;   UTF-8
